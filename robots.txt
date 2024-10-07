@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ubriardo.github.io/sitemap.html.gz
+Sitemap: https://ubriardo.github.io/app/sitemap.html.gz
+Sitemap: https://ubriardo.github.io/assets/sitemap.html.gz
+Sitemap: https://ubriardo.github.io/css/sitemap.html.gz
+Sitemap: https://ubriardo.github.io/data/sitemap.html.gz
+Sitemap: https://ubriardo.github.io/includes/sitemap.html.gz
+Sitemap: https://ubriardo.github.io/item/sitemap.html.gz
+Sitemap: https://ubriardo.github.io/src/sitemap.html.gz
